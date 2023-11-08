@@ -6,6 +6,10 @@ Olá, Meu nome é Leandro Padilha Chaves 👋
   
 - 👯 Gosto de trocar informações com outros desenvolvedores e estou aberto a receber ajuda da comunidade. Essa troca é muito importante para maiores interações e conhecimentos.
 
+- Meus contatos:
+  <img src="https://github.com/LeandroPChaves/leandropchaves/assets/92859551/dbd3e942-45c7-4070-a1b7-de1af7630e76">
+
+
 
 
 
