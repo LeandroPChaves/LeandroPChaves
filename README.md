@@ -7,7 +7,7 @@ Olá, Meu nome é Leandro Padilha Chaves 👋
 - 👯 Gosto de trocar informações com outros desenvolvedores e estou aberto a receber ajuda da comunidade. Essa troca é muito importante para maiores interações e conhecimentos.
 
 - Meus contatos: <br>
-  <img src="https://github.com/LeandroPChaves/leandropchaves/assets/92859551/dbd3e942-45c7-4070-a1b7-de1af7630e76">  linkedin.com/in/leandro-padilha-chaves-b0013baa
+  <img src="https://github.com/LeandroPChaves/leandropchaves/assets/92859551/dbd3e942-45c7-4070-a1b7-de1af7630e76">  linkedin.com/in/leandro-padilha-chaves-b0013baa <br>
   <img src="https://icons8.com.br/icon/80361/phone"> (21) 97972-7353
 
 
