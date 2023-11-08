@@ -8,8 +8,6 @@ Em paralelo com a Tecnologia, estudo a trilha de Inglês de 5 módulos na Faetec
 
 Estou aberto a oportunidades para Dev Júnior e também a oportunidades de Estágio.
   
-- 🌱 Atualmente estou priorizando os estudos das ferramentas HTML, CSS e Java Script, para desenvolvimento Web Front-End, porém também tenho o desejo de aprender Back-End me tornado Full-Stack.
-  
 - 👯 Gosto de trocar informações com outros desenvolvedores e estou aberto a receber ajuda da comunidade. Essa troca é muito importante para maiores interações e conhecimentos.
 
 - Meus contatos: <br>
@@ -23,6 +21,7 @@ Estou aberto a oportunidades para Dev Júnior e também a oportunidades de Está
 
 
 <!--
+- 🌱 Atualmente estou priorizando os estudos das ferramentas HTML, CSS e Java Script, para desenvolvimento Web Front-End, porém também tenho o desejo de aprender Back-End me tornado Full-Stack.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
