@@ -2,11 +2,11 @@ Olá, Meu nome é Leandro Padilha Chaves 👋
 
 - 🔭 Atualmente curso o nível Técnico em Informática para Internet na instituição Faetec Oscar Tenório com grade voltada para Desenvolvimento de Sites e Programação.
 
-     Em 2005 terminei o ensino Superior Tecnólogo em Informática na instituição UniAbeu, porém nunca atuei na área. Em 2022, eu decidi finalmente trabalhar no segmento em que sou formado e atualmente estudo o nível técnico e faço cursos livres para estar atualizado aos pré-requisitos que o mercado necessita.
+Busco transição de carreira para a área de Tecnologia, atuando em Programação e Desenvolvimento Web. 
 
-    Em paralelo com a Tecnologia, estudo a trilha de Inglês de 5 módulos na Faetec, onde atualmente estou no 2º módulo.
+Em paralelo com a Tecnologia, estudo a trilha de Inglês na Faetec, composta por 5 módulos. Finalizei os 2 primeiros e em 02/2024 iniciarei o 3º.
 
-    Estou em busca de oportunidades para os cargo de Dev Júnior ou Estágio.
+Estou aberto a oportunidades  na área de TI para Estagiário e Junior, porém aceito também receber propostas de outros segmentos.
   
 - 👯 Gosto de trocar informações com outros desenvolvedores, ajudando e recebendo ajuda da comunidade. Essa troca é muito importante para maiores interações e conhecimentos.
 
