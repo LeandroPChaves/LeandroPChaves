@@ -1,6 +1,6 @@
 Olá, Meu nome é Leandro Padilha Chaves 👋
 
-- 🔭 Atualmente curso o nível Técnico em Informática para Internet na instituição Faetec Oscar Tenório com grade voltada para Desenvolvimento de Sites e Programação.
+- 🔭 Atualmente curso Desenvolvimento Web na instituição Campinho Digital.
 
 Busco transição de carreira para a área de Tecnologia, atuando em Programação e Desenvolvimento Web. 
 
