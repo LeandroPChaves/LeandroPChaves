@@ -4,7 +4,7 @@ Olá, Meu nome é Leandro Padilha Chaves 👋
 
 Busco transição de carreira para a área de Tecnologia, atuando em Programação e Desenvolvimento Web. 
 
-Em paralelo com a Tecnologia, estudo a trilha de Inglês na Faetec, composta por 5 módulos. Finalizei os 2 primeiros e em 02/2024 iniciarei o 3º.
+Possuo noções básicas de Inglês (1 ano de estudo em Inglês na Faetec).
 
 Estou aberto a oportunidades  na área de TI para Estagiário e Junior, porém aceito também receber propostas de outros segmentos.
   
